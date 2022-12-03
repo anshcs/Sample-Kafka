@@ -20,7 +20,7 @@ The project involves setting up a mini-Kafka on our system, complete with the im
 ***
 ## Architecture:
 
-![kafkaArch](https://user-images.githubusercontent.com/76522728/205455272-f1f8896d-b67f-4893-acf1-5a0498ff96f4.jpg)
+![kafkaArch](https://user-images.githubusercontent.com/76522728/205455362-b878cb4e-d3a5-4bb0-ab62-629deb088bd2.jpg)
 
 ***
 ### HOW TO RUN:
