@@ -17,6 +17,10 @@ The project involves setting up a mini-Kafka on our system, complete with the im
 * Uses leader algorithm to choose new leader when one of the brokers go down 
 * Ensures partitioning 
 * Consists of a zookeeper which monitors the heart-beat of the brokers 
+***
+## Architecture:
+
+![kafkaArch](https://user-images.githubusercontent.com/76522728/205455272-f1f8896d-b67f-4893-acf1-5a0498ff96f4.jpg)
 
 ***
 ### HOW TO RUN:
